@@ -1,0 +1,81 @@
+table.ResultSpreadsheet {
+  width: 100%;
+  background-color: #ffffff;
+  border-collapse: separate;
+  border-width: 1px;
+  border-color: #ffcc00;
+  border-style: outset;
+  color: #000000;
+}
+
+table.ResultSpreadsheet td,
+table.ResultSpreadsheet th {
+  border-width: 1px;
+  border-color: #ffcc00;
+  border-style: outset;
+  padding: 5px;
+}
+
+table.ResultSpreadsheet thead {
+  background-color: #ffcc00;
+}
+
+header {
+  background-color: #ffcc00;
+  text-align: center;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+  line-height: 20px;
+  border-radius: 20px;
+  padding-left: 180px;
+}
+body {
+  font-family: montserrat;
+}
+table {
+  border-spacing: 5px;
+}
+thead {
+  text-align: left;
+}
+th:hover {
+  color: #f9e79f;
+  background-color: #d4ac0d;
+}
+td:hover {
+  color: #f9e79f;
+  background-color: #d4ac0d;
+}
+header:hover {
+  color: white;
+  background-color: #3498db;
+}
+h1 strong {
+  color: white;
+  font-size: 75%;
+  opacity: 0.75;
+}
+h2 strong {
+  color: white;
+  font-size: 75%;
+  opacity: 0.75;
+}
+h3 strong {
+  color: white;
+  font-size: 75%;
+  opacity: 0.75;
+}
+h2 {
+  margin-left: 267px;
+  text-align: left;
+}
+h3 {
+  margin-left: 255px;
+  text-align: left;
+}
+h1 {
+  margin-left: 312px;
+  text-align: left;
+}
